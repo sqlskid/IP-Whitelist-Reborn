@@ -1,0 +1,7 @@
+name: IP-Whitelist-Reborn
+main: xyz.sqlskid.ipwl.IPWhitelist
+api-version: 1.13
+version: 1.0
+commands:
+  ipwhitelist:
+    aliases: ipwl
